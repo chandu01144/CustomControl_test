@@ -4,7 +4,7 @@
 		<content>
 	
             <dalraeContainers:ShadowBox />
- <Button text="comments" press="openDialog" />
+ <!-- <Button text="comments" press="openDialog" /> -->
 		</content>
 	</Page>
 </core:View>
